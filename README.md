@@ -1,5 +1,5 @@
 # How-to-use-Git
-You can by it to study Git.
+You can study Git by it.
 # 1.初始化仓库：git  init
 # 2.git add -A   （将工作区的文件放到暂存区）
 # 3.git commit -m  "提交信息（first commit）"  （将暂存区文件放到远程仓库）
